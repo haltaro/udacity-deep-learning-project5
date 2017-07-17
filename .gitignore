@@ -1,3 +1,5 @@
 dcgan-svhn/
 data/
+fig/
 __pycache__/
+visualize_dcgan.ipynb
